@@ -2,6 +2,8 @@
 
 SPK Pemberian Reward Guru adalah aplikasi berbasis web yang digunakan untuk memberikan reward kepada guru berdasarkan hasil penilaian kinerja guru dengan metode MAUT. Aplikasi ini dibuat dengan Codeigniter 4 dan MySQL sebagai database.
 
+![Screenshoot](https://github.com/ocikyamin/SPK-Metode-MAUT-Pemberian-Reward-Guru-CI4/blob/main/Layouts.png) 
+
 Aplikasi ini memiliki fitur-fitur sebagai berikut:
 
 Penilaian kinerja guru
