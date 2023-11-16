@@ -4,33 +4,15 @@ SPK Pemberian Reward Guru adalah aplikasi berbasis web yang digunakan untuk memb
 
 ![Screenshoot](https://github.com/ocikyamin/SPK-Metode-MAUT-Pemberian-Reward-Guru-CI4/blob/main/Layouts.png) 
 
-Aplikasi ini memiliki fitur-fitur sebagai berikut:
+### Aplikasi ini memiliki fitur-fitur sebagai berikut:
 
 Penilaian kinerja guru
 Pengaturan kriteria penilaian
 Pengaturan bobot kriteria
 Perhitungan hasil penilaian
 Pemberian reward
-Aplikasi ini dapat digunakan oleh kepala sekolah atau komite sekolah untuk menilai kinerja guru dan memberikan reward.
 
-Fitur-Fitur Aplikasi
-
-Penilaian kinerja guru
-Fitur ini digunakan untuk menilai kinerja guru. Penilaian kinerja guru dilakukan berdasarkan kriteria-kriteria yang telah ditentukan.
-
-Pengaturan kriteria penilaian
-Fitur ini digunakan untuk mengatur kriteria penilaian. Kriteria penilaian dapat ditambahkan, dihapus, atau diubah.
-
-Pengaturan bobot kriteria
-Fitur ini digunakan untuk mengatur bobot kriteria. Bobot kriteria digunakan untuk menentukan tingkat pentingnya suatu kriteria.
-
-Perhitungan hasil penilaian
-Fitur ini digunakan untuk menghitung hasil penilaian kinerja guru. Hasil penilaian kinerja guru digunakan untuk menentukan pemberian reward.
-
-Pemberian reward
-Fitur ini digunakan untuk memberikan reward kepada guru. Reward dapat berupa uang, penghargaan, atau promosi jabatan.
-
-Keunggulan Aplikasi
+### Keunggulan Aplikasi
 
 Mudah digunakan
 Efisien
